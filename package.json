@@ -2,6 +2,9 @@
   "name": "webserver",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
